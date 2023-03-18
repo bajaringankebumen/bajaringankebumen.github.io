@@ -1,0 +1,16 @@
+@font-face {font-family: xs-onboard-icons;src: url("./../fonts/xs-onboard-icons.eot?osnmrk");src: url("./../fonts/xs-onboard-icons.eot?osnmrk#iefix") format("embedded-opentype"),url("./../fonts/xs-onboard-icons.ttf?osnmrk") format("truetype"),url("./../fonts/xs-onboard-icons.woff?osnmrk") format("woff"),url("./../fonts/xs-onboard-icons.svg?osnmrk#xs-onboard-icons") format("svg");font-weight: 400;font-style: normal;font-display: block;}
+[class*=" xs-"], [class^=xs-] {font-family: xs-onboard-icons !important;speak: never;font-style: normal;font-weight: 400;font-variant: normal;text-transform: none;line-height: 1;-webkit-font-smoothing: antialiased;-moz-osx-font-smoothing: grayscale;}
+.xs-onboard-arrow-left:before {content: "";}
+.xs-onboard-check:before {content: "";}
+.xs-onboard-elementskit:before {content: "";}
+.xs-onboard-gift:before {content: "";}
+.xs-onboard-layout:before {content: "";}
+.xs-onboard-mail:before {content: "";}
+.xs-onboard-metform:before {content: "";}
+.xs-onboard-play:before {content: "";}
+.xs-onboard-settings:before {content: "";}
+.xs-onboard-shopengine:before {content: "";}
+.xs-onboard-smile:before {content: "";}
+.xs-onboard-user:before {content: "";}
+.xs-onboard-wpsocial:before {content: "";}
+.xs-onboard-youtube:before {content: "";}
